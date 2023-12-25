@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youcef Hanaia (poysa)</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [Social Network Platform for Doctors](https://github.com/Therapoi)
-
 - 👨‍💻 All of my projects are available at [https://poysa213.me](https://poysa213.me)
 
 - 📫 How to reach me **hanaiayoucef@gmail.com**
