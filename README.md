@@ -1,5 +1,5 @@
-<h1 align="center">Youcef Hanaia aka poysa</h1>
-<p align="center">Full stack engineer · Python & TypeScript · web, mobile and AI systems</p>
+<h1 align="center">Youcef Hanaia</h1>
+<p align="center">aka <b>poysa</b> · Full stack software engineer · Python & TypeScript · web, mobile and AI systems</p><
 
 <p align="center">
   <a href="https://linkedin.com/in/poysa213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
