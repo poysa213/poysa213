@@ -1,4 +1,4 @@
-<h1 align="center">Youcef Hanaia</h1>
+<h1 align="center">Youcef Hanaia aka poysa</h1>
 <p align="center">Full stack engineer · Python & TypeScript · web, mobile and AI systems</p>
 
 <p align="center">
